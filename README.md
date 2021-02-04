@@ -7,8 +7,7 @@
 💻 Skilled in Python(Programming Language), Android Application Development, C/C++, Flask and Java .\
 📱 Experienced Android Developer
 ⚙️ Filled with the potential of converting ideas into working products.\
-✔ Interested in the field of Artificial Intelligence and Data Science.\
-🔭 I’m currently working on a Flutter project and learning about Docker\
+✔ Interested in Artificial Intelligence and Data Science.\
 📫 How to reach me: Visit my Website : <a href="https://hridaya423.github.io/">Hridaya Agrawal</a>
 
 ### Technical Skills
@@ -29,6 +28,7 @@
  <img height="60" width="60" src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_1e0d62f445e6448af1e125f5702c8227/reactjs-development-services.png"/> 
 <img height="60" width="60" src="https://miro.medium.com/max/2560/1*jAwFJjRn0DYRA3fnxrR9PQ.jpeg"/>
 <img height="60" width="60" src="https://coralogix.com/wp-content/uploads/2018/04/Coralogix-Nodejs-integration.jpg"/>
+<img height="60" width="60" src="https://miro.medium.com/max/336/0*TZfTsYARaJupeCTP.png"/>
  
  </p>
 
