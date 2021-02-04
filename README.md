@@ -21,10 +21,15 @@
  <img height="60" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
  <img height="60" width="90" src="https://raw.githubusercontent.com/smv1999/smv1999/master/flask.png" />
  <img height="60" width="95" src="https://raw.githubusercontent.com/flutter/website/master/src/_assets/image/flutter-lockup-bg.jpg" />
- <img height="60" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
+ <img height="60" width="95" src="https://hackr.io/tutorials/learn-html-5/logo/logo-html-5?ver=1587977020" />
  <img height="60" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
  <img height="60" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
- <img height="60" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" /> 
+ <img height="60" width="60" src="https://x7d4c5z5.stackpathcdn.com/wp-content/uploads/2014/10/css3.jpg"/> 
+ <img height="60" width="60" src="https://miro.medium.com/max/2732/1*MD4sw9im4sftZA5u6mfFSg.png"/> 
+ <img height="60" width="60" src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_1e0d62f445e6448af1e125f5702c8227/reactjs-development-services.png"/> 
+<img height="60" width="60" src="https://miro.medium.com/max/2560/1*jAwFJjRn0DYRA3fnxrR9PQ.jpeg"/>
+<img height="60" width="60" src="https://coralogix.com/wp-content/uploads/2018/04/Coralogix-Nodejs-integration.jpg"/>
+ 
  </p>
 
 <p align=center>
