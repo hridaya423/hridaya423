@@ -1,4 +1,4 @@
-<a href="http://hridaya423.github.io/"><img src="https://raw.githubusercontent.com/hridaya/hridaya/master/title_banner.png" /></a>
+<a href="http://hridaya423.github.io/"><img src="https://raw.githubusercontent.com/hridaya423/hridaya423/main/title_banner.png" /></a>
 
 <br>
 
