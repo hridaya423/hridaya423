@@ -32,11 +32,12 @@
 <img height="60" width="60" src="https://miro.medium.com/max/336/0*TZfTsYARaJupeCTP.png"/>
  
  </p>
+ 
 
-<p align=center>
- <img src="https://github-readme-stats.vercel.app/api?username=hridaya423&show_icons=true&theme=tokyonight&count_private=true" />
-<img height=175  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishant127&hide=c%23,powershell,java&title_color=2aa889&text_color=99d1ce&icon_color=2bbc8a&bg_color=0c1014&langs_count=8&layout=compact" />
-</p>
+|[![Stats](https://github-readme-stats.vercel.app/api?username=hridaya423&show_icons=true&theme=tokyonight&count_private=true)](https://github-readme-stats.vercel.app/api/top-langs/?username=hridaya423&hide=c%23,powershell,java&title_color=2aa889&text_color=99d1ce&icon_color=2bbc8a&bg_color=0c1014&langs_count=8&layout=compact) |<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hridaya423&hide=c%23,powershell,java&title_color=2aa889&text_color=99d1ce&icon_color=2bbc8a&bg_color=0c1014&langs_count=8&layout=compact"/>|
+|---|---|
+ 
+ ---
 
 ---
 
