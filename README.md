@@ -1,8 +1,6 @@
 # ![](https://github.com/Akash-Salvi/Akash-Salvi/blob/master/Hello(1).gif)[Hridaya Agrawal](https://github.com/hridaya423) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <a href="http://hridaya423.github.io/"><img src="https://raw.githubusercontent.com/hridaya423/hridaya423/main/title_banner.png" /></a>
 
-<br>
-
 ![](https://komarev.com/ghpvc/?username=hridaya423) <br><br>
 
 💻 Skilled in Python(Programming Language), Android Application Development, C/C++, Flask and Java .\
