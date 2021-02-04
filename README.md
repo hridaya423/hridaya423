@@ -1,3 +1,4 @@
+# ![](https://github.com/Akash-Salvi/Akash-Salvi/blob/master/Hello(1).gif)[Hridaya Agrawal](https://github.com/hridaya423) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <a href="http://hridaya423.github.io/"><img src="https://raw.githubusercontent.com/hridaya423/hridaya423/main/title_banner.png" /></a>
 
 <br>
@@ -34,18 +35,20 @@
 
 <p align=center>
  <img src="https://github-readme-stats.vercel.app/api?username=hridaya423&show_icons=true&theme=tokyonight&count_private=true" />
+<img height=175  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishant127&hide=c%23,powershell,java&title_color=2aa889&text_color=99d1ce&icon_color=2bbc8a&bg_color=0c1014&langs_count=8&layout=compact" />
 </p>
 
+---
 
-<p align="center">
+|[![stackoverflow card](https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=15129164)](https://stackoverflow.com/users/15129164/hridaya-agrawal) |<img src="https://github-readme-streak-stats.herokuapp.com/?user=hridaya423"/>|
+|---|---|
+ 
+ ---
+ 
+ <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=hridaya423&row=2&column=3&margin-w=8&margin-h=8" alt="trophies" />
 </p>
-
-
-<p align=center >
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hridaya423" /> |
-</p>
-
+ 
 <p align="center">
  Show some ❤️ by starring some of the repositories!
 </p>
@@ -53,7 +56,34 @@
 
 ## Connect with me
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/learn-earn-and-fun-company-5341311ab/)
-[<img src="https://img.shields.io/badge/twitter-%23E4405F.svg?&style=for-the-badge&logo=twitter&logoColor=white%22" />](https://twitter.com/TrainingPega)
+<div align="center">
+ <a href="https://www.linkedin.com/in/learn-earn-and-fun-company-5341311ab/ " target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://github.com/hridaya423" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/TrainingPega" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://dev.to/hridaya423" target="_blank">
+<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
+</a>
+<a href="https://stackoverflow.com/users/15129164/hridaya-agrawal" target="_blank">
+<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
+</a>
+<a href="https://medium.com/@hridayahoney" target="_blank">
+<img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
+</a>  
+<a href="https://www.facebook.com/profile.php?id=100027499144539/" target="_blank">
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+</a>
+</div>
+
+<p align="center">
+  <a href='https://github.com/hridaya423/'>
+    <img width="75%" src="https://metrics.lecoq.io/hridaya423?template=classic&followup=1&isocalendar=1&isocalendar.duration=half-year&config.timezone=Asia%2FCalcutta&config.animated=true"/>
+  </a>
+</p>
 
 
