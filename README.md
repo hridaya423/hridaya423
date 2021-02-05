@@ -37,34 +37,15 @@
 
 ## Connect with me
 
-<div align="center">
- <a href="https://www.linkedin.com/in/learn-earn-and-fun-company-5341311ab/ " target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://github.com/hridaya423" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/TrainingPega" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://dev.to/hridaya423" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-</a>
-<a href="https://stackoverflow.com/users/15129164/hridaya-agrawal" target="_blank">
-<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
-</a>
-<a href="https://medium.com/@hridayahoney" target="_blank">
-<img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
-</a>  
-<a href="https://www.facebook.com/profile.php?id=100027499144539/" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-</div>
-
-<p align="center">
-  <a href='https://github.com/hridaya423/'>
-    <img width="75%" src="https://metrics.lecoq.io/hridaya423?template=classic&followup=1&isocalendar=1&isocalendar.duration=half-year&config.timezone=Asia%2FCalcutta&config.animated=true"/>
-  </a>
+<p align="left">
+<a href="https://codepen.io/hridayahoney" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="hridayahoney" height="30" width="40" /></a>
+<a href="https://dev.to/hridaya423" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="hridaya423" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/learn-earn-and-fun-company-5341311ab/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="learn-earn-and-fun-company" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/15129164/hridaya-agrawal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="15129164" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100027499144539/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="vidhya gyan" height="30" width="40" /></a>
+<a href="https://dribbble.com/hridaya123" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="hridaya423" height="30" width="40" /></a>
+<a href="https://medium.com/@hridayahoney" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@hridayahoney" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/LearningFunEarn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="learn earn & fun" height="30" width="40" /></a>
 </p>
 
 
