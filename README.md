@@ -69,12 +69,13 @@
    <a href="https://www.microsoft.com/en/microsoft-365/access" target="_blank"> <img src="https://raw.githubusercontent.com/hridaya423/hridaya423/main/Microsoft%20Access.png" alt="Microsoft Access" width="40" height="40"/> </a>
     <a href="https://www.microsoft.com/en/microsoft-365/word" target="_blank"> <img src="https://raw.githubusercontent.com/hridaya423/hridaya423/main/Microsoft%20Word.png" alt="Microsoft Word" width="40" height="40"/> </a>
    <a href="https://www.microsoft.com/en/microsoft-365/powerpoint" target="_blank"> <img src="https://raw.githubusercontent.com/hridaya423/hridaya423/main/Microsoft%20PowerPoint.png" alt="Microsoft Power Point" width="40" height="40"/> </a>
- <a href="https://www.microsoft.com/en/microsoft-365/excel" target="_blank"> <img src="https://raw.githubusercontent.com/hridaya423/hridaya423/main/Microsoft-Excel-Logo.png" alt="Microsoft Excel" width="40" height="40"/> </a>
+ <a href="https://www.microsoft.com/en/microsoft-365/excel" target="_blank"> <img src="https://raw.githubusercontent.com/hridaya423/hridaya423/main/Microsoft-Excel-Logo.jpg" alt="Microsoft Excel" width="40" height="40"/> </a>
 
 </p> 
- 
 
-|[![Stats](https://github-readme-stats.vercel.app/api?username=hridaya423&show_icons=true&theme=tokyonight&count_private=true)](https://github-readme-stats.vercel.app/api/top-langs/?username=hridaya423&hide=c%23,powershell,java&title_color=2aa889&text_color=99d1ce&icon_color=2bbc8a&bg_color=0c1014&langs_count=8&layout=compact) |<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hridaya423&hide=c%23,powershell,java&title_color=2aa889&text_color=99d1ce&icon_color=2bbc8a&bg_color=0c1014&langs_count=8&layout=compact"/>|
+ ---
+
+|[![Stats](https://github-readme-stats.vercel.app/api?username=hridaya423&show_icons=true&theme=tokyonight&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github-profile-trophy.vercel.app/?username=hridaya423&theme=tokyonight) |<img src="https://github-profile-trophy.vercel.app/?username=hridaya423&theme=tokyonight"/>|
 |---|---|
  
  ---
@@ -86,9 +87,6 @@
  
  ---
  
- <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=hridaya423&row=2&column=3&margin-w=8&margin-h=8" alt="trophies" />
-</p>
  
 <p align="center">
  Show some ❤️ by starring some of the repositories!
