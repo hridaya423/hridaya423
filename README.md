@@ -78,7 +78,7 @@
 
  ---
 
-|[![Stats](https://github-readme-stats.vercel.app/api?username=hridaya423&show_icons=true&theme=tokyonight&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github-profile-trophy.vercel.app/?username=hridaya423&theme=tokyonight) |<img src="https://github-profile-trophy.vercel.app/?username=hridaya423&theme=tokyonight"/>|
+|[![Stats](https://github-readme-stats.vercel.app/api?username=hridaya423&show_icons=true&theme=tokyonight&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github-profile-trophy.vercel.app/?username=hridaya423&row=2&column=3&margin-w=8&margin-h=8) |<img src="https://github-profile-trophy.vercel.app/?username=hridaya423&row=2&column=3&margin-w=8&margin-h=8"/>|
 |---|---|
  
  ---
