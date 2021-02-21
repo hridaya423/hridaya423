@@ -90,6 +90,8 @@
  
  ---
  
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hridaya423&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
  
 <p align="center">
  Show some ❤️ by starring some of the repositories!
