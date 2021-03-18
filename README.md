@@ -73,7 +73,6 @@
  <a href="https://www.sidefx.com/products/houdini/" target="_blank"> <img src="https://raw.githubusercontent.com/hridaya423/hridaya423/main/houdini.png" alt="Houdini" width="40" height="40"/> </a>
  <a href="https://affinity.serif.com/en-us/designer/" target="_blank"> <img src="https://raw.githubusercontent.com/hridaya423/hridaya423/main/Affinity%20Designer.jfif" alt="Affinity Designer" width="40" height="40"/> </a>
   <a href="https://affinity.serif.com/en-us/photo/" target="_blank"> <img src="https://raw.githubusercontent.com/hridaya423/hridaya423/main/Affinity%20Photo.jfif" alt="Affinity Photo" width="40" height="40"/> </a>
-   <a href="https://www.microsoft.com/en/microsoft-365/access" target="_blank"> <img src="https://raw.githubusercontent.com/hridaya423/hridaya423/main/Microsoft%20Access.png"
 </p> 
 
  ---
