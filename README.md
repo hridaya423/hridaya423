@@ -15,7 +15,6 @@
 💻 Professional Full Stack Developer Developer.
 
 <a href="https://www.youtube.com/channel/UCPK-CMPMf8juRuFyUVzwDsw?sub_confirmation=1"><img src="https://img.shields.io/static/v1?label=Learn%20Earn%20%20Fun&message=Subscribe&logo=YouTube&color=FF0000&style=for-the-badge" /></a>
-<a href="https://www.linkedin.com/in/learn-earn-and-fun-company-5341311ab/"><img src="https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/learn-earn-and-fun-company-5341311ab/" /></a>
 
  ---
 
@@ -43,9 +42,7 @@
 <p align="left">
 <a href="https://codepen.io/hridayahoney" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="hridayahoney" height="30" width="40" /></a>
 <a href="https://dev.to/hridaya423" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="hridaya423" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/learn-earn-and-fun-company-5341311ab/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="learn-earn-and-fun-company" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/15129164/hridaya-agrawal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="15129164" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=100027499144539/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="vidhya gyan" height="30" width="40" /></a>
 <a href="https://dribbble.com/hridaya123" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="hridaya423" height="30" width="40" /></a>
 <a href="https://medium.com/@hridayahoney" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@hridayahoney" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/LearningFunEarn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="learn earn & fun" height="30" width="40" /></a>
