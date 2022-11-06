@@ -1,5 +1,4 @@
-# ![](https://github.com/Akash-Salvi/Akash-Salvi/blob/master/Hello(1).gif)[Hridaya Agrawal](https://github.com/hridaya423) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-<a href="http://hridaya423.github.io/"><img src="https://raw.githubusercontent.com/hridaya423/hridaya423/main/banner.png" /></a>
+# ![](https://github.com/Akash-Salvi/Akash-Salvi/blob/master/Hello(1).gif)[Hridya Agrawal](https://github.com/hridaya423) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ![](https://komarev.com/ghpvc/?username=hridaya423) <br><br>
 
