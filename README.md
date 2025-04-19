@@ -24,12 +24,10 @@
 
 ---
 
-|[![stackoverflow card](https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=15129164)](https://stackoverflow.com/users/15129164/hridaya-agrawal) |<img src="https://github-readme-streak-stats.herokuapp.com/?user=hridaya423&theme=calm"/>|
+|![stackoverflow card](https://github-readme-stats.hackclub.dev/api/wakatime?username=49&api_domain=hackatime.hackclub.com&theme=tokyonight&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)|<img src="https://github-readme-streak-stats.herokuapp.com/?user=hridaya423&theme=calm"/>|
 |---|---|
  
  ---
- 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hridaya423&layout=compact)](https://github.com/hridaya423)
 
  
 <p align="center">
