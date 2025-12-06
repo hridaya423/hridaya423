@@ -15,14 +15,8 @@
 
 <a href="https://www.youtube.com/channel/UCPK-CMPMf8juRuFyUVzwDsw?sub_confirmation=1"><img src="https://img.shields.io/static/v1?label=Learn%20Earn%20%20Fun&message=Subscribe&logo=YouTube&color=FF0000&style=for-the-badge" /></a>
 
- ---
 
-|[![Stats](https://github-readme-stats.vercel.app/api?username=hridaya423&show_icons=true&theme=tokyonight&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github-profile-trophy.vercel.app/?username=hridaya423&row=2&column=3&margin-w=8&margin-h=8) |<img src="https://github-profile-trophy.vercel.app/?username=hridaya423&row=2&column=3&margin-w=8&margin-h=8"/>|
-|---|---|
- 
- ---
-
----
+<img src="https://github-profile-trophy.vercel.app/?username=hridaya423&row=2&column=3&margin-w=8&margin-h=8"/>|
 
 |![stackoverflow card](https://github-readme-stats.hackclub.dev/api/wakatime?username=49&api_domain=hackatime.hackclub.com&theme=tokyonight&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)|<img src="https://github-readme-streak-stats.herokuapp.com/?user=hridaya423&theme=calm"/>|
 |---|---|
