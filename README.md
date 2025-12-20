@@ -1,28 +1,20 @@
-# ![](https://github.com/Akash-Salvi/Akash-Salvi/blob/master/Hello(1).gif)[Hridya Agrawal](https://github.com/hridaya423) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello, I'm [Hridya Agrawal](https://hridya.tech) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ![](https://komarev.com/ghpvc/?username=hridaya423) <br><br>
 
-
 💻 Skilled in Python.
 
-📱 Experienced Flutter Developer.
+📱 Experienced JS/TS developer, with multiple projects in next.js and react.
 
 ⚙️ Filled with the potential of converting ideas into working products.
 
 ✔ Interested in Artificial Intelligence and Data Science.
 
 💻 Professional Full Stack Developer.
-
-<a href="https://www.youtube.com/channel/UCPK-CMPMf8juRuFyUVzwDsw?sub_confirmation=1"><img src="https://img.shields.io/static/v1?label=Learn%20Earn%20%20Fun&message=Subscribe&logo=YouTube&color=FF0000&style=for-the-badge" /></a>
-
-
-<img src="https://github-profile-trophy.vercel.app/?username=hridaya423&row=2&column=3&margin-w=8&margin-h=8"/>|
-
 |![stackoverflow card](https://github-readme-stats.hackclub.dev/api/wakatime?username=49&api_domain=hackatime.hackclub.com&theme=tokyonight&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)|<img src="https://github-readme-streak-stats.herokuapp.com/?user=hridaya423&theme=calm"/>|
 |---|---|
  
  ---
-
  
 <p align="center">
  Show some ❤️ by starring some of the repositories!
