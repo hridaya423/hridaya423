@@ -11,6 +11,7 @@ PX, PY = (W - COLS * CW) / 2, 22
 POND_W, POND_H = COLS * CW, ROWS * LH
 H = int(PY + POND_H + 118)
 FRAMES, DT = 72, 0.12
+STRIDE = 360
 T = FRAMES * DT
 SUB_X, SUB_Y = 3, 4
 
@@ -245,9 +246,8 @@ def text_run(row, color, group):
 
 def svg():
     frames = "".join(
-        f'<g class="f" style="animation-delay:{i * DT - T:.1f}s">{runs(frame(i / FRAMES))}</g>' for i in range(FRAMES)
+        f'<g transform="translate(0 {i * STRIDE})">{runs(frame(i / FRAMES))}</g>' for i in range(FRAMES)
     )
-    step = 100 / FRAMES
     y0 = PY + POND_H + 52
     lines = [
         f'<text x="{PX + 4}" y="{y0}" class="t" font-size="15" font-weight="600">hridya agrawal<tspan class="d" font-weight="400">  ·  london</tspan></text>',
@@ -259,12 +259,12 @@ def svg():
     return f'''<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}" viewBox="0 0 {W} {H}" role="img" aria-label="{escape(label)}"><title>Hridya Agrawal</title><style>
 text{{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,"Liberation Mono",monospace;font-size:{FONT}px;white-space:pre}}
 {colors}.t{{fill:{TEXT}}}.d{{fill:{DIM}}}
-.f{{visibility:hidden;animation:k {T:.1f}s steps(1,end) infinite}}
-@keyframes k{{0%{{visibility:visible}}{step:.3f}%,100%{{visibility:hidden}}}}
-@media (prefers-reduced-motion:reduce){{.f{{animation:none}}.f:first-child{{visibility:visible}}}}
+.s{{animation:k {T:.2f}s steps({FRAMES},end) infinite}}
+@keyframes k{{to{{transform:translateY(-{FRAMES * STRIDE}px)}}}}
+@media (prefers-reduced-motion:reduce){{.s{{animation:none}}}}
 </style><rect x="0.5" y="0.5" width="{W - 1}" height="{H - 1}" rx="12" fill="{BG}" stroke="{EDGE}"/>
 <rect x="{PX - 6}" y="{PY - 8}" width="{POND_W + 12}" height="{POND_H + 16}" rx="8" fill="#0f161d"/>
-<g>{runs(TEXTURE)}</g><g>{frames}</g>
+<clipPath id="pond"><rect x="{PX - 6}" y="{PY - 8}" width="{POND_W + 12}" height="{POND_H + 16}"/></clipPath><g>{runs(TEXTURE)}</g><g clip-path="url(#pond)"><g class="s">{frames}</g></g>
 <line x1="{PX + 4}" x2="{W - PX - 4}" y1="{PY + POND_H + 22}" y2="{PY + POND_H + 22}" stroke="{EDGE}"/>
 {"".join(lines)}</svg>'''
 
