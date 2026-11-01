@@ -1,14 +1,21 @@
-# Profile artwork
+# The workbench
 
-The four hero SVGs adapt the visual identity of [hridya.tech](https://hridya.tech):
-Manrope, Caveat, the orange 5×7 dot-matrix display, and the aluminium tray.
-The lettering uses vector outlines, so it does not require installed fonts or external font requests.
+Original 3D illustrations, modeled and lit in Blender for this profile:
 
-`hero-light.svg` is the default. The profile's `<picture>` selects a dark version
-and a separate composition for screens up to 600 pixels wide.
-All four files are static, self-contained SVGs with titles and descriptions.
+- **Lexis:** a small terminal with phosphor lettering.
+- **Foundry:** a ceramic command key.
+- **silk reel:** a circuit board with copper traces.
+- **Strobe:** a stack of film frames.
 
-Source artwork and typefaces come from Hridya's portfolio. The display glyphs match
-`src/components/portfolio/dot-matrix-font.ts` in that project.
-Manrope, Caveat, and IBM Plex Mono use the SIL Open Font License.
-The SVGs contain outlines only, with no embedded font software.
+These are visual interpretations of the software, not product screenshots or
+physical products. No third-party artwork or portfolio screenshots are used.
+Typography is rasterized DIN Condensed, Arial, and Andale Mono; the images embed
+no font software.
+
+The six WebP files form a self-contained set. The main banner has a separate
+composition for screens up to 600 pixels wide. Each linked project cover renders
+at up to 400 pixels wide, allowing pairs on wider screens and a single column on
+phones. The artwork uses fixed colors that work on both GitHub themes.
+
+Image alternative text and the expandable project index preserve project
+descriptions and destinations without the artwork.
